@@ -1,2 +1,2 @@
-# KBB_Bubbla
+# KBB_Chars
 My characters for KBB. Enjoy!
