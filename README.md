@@ -1,4 +1,4 @@
-ififi# KBB_Chars
+# KBB_Chars
 My characters for KBB. Enjoy!
 
 *Shoutouts!
